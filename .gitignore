@@ -1,0 +1,9 @@
+# IntelliJ Idea related
+*.xml
+*.iml
+
+# macOS related
+.DS_Store
+
+# Java related
+out/
